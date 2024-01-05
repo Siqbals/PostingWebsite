@@ -11,7 +11,8 @@ other features:
 -view channel and view posts associated to that channel 
 
 ## implementation:
-front-end - uses the React Javascript library along with standard HTML 
+front-end - uses the React Javascript library along with standard HTML
+\n
 back-end:
   Javascript is uses to access the database and perform modifications on it, as well manage CORS policy overrides 
   MySQL database is used to store user login information, channels, posts, and replies 
